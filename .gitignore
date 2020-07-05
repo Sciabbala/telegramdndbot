@@ -214,3 +214,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,jupyternotebooks,visualstudiocode
+
+secrets.py
+api_testing.ipynb
